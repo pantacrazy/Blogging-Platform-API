@@ -64,7 +64,7 @@ blogging-platform/
 
 1. **Clone repository**:
    ```bash
-   git clone https://github.com/yourusername/blogging-platform.git
+   git clone https://github.com/pantacrazy/Blogging-Platform-API
    cd blogging-platform
    ```
 
